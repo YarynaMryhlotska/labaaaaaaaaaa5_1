@@ -1,4 +1,6 @@
 //laba5__1
+//ћриглоцька ярина
+//IT-12
 #include "pch.h"
 #include "CppUnitTest.h"
 #include "../labaaaaaaaaa5(1)/labaaaaaa5(1).cpp"
